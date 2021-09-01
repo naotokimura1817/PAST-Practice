@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96104ff6-2000-4d40-9f72-5c5648bc9c20" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/A-ゾロ目数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C-Takahashi's Information.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-We Love Golf.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ABC216.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +49,7 @@
       <recent name="C:\Projects\PAST-Practice" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.A-ゾロ目数">
+  <component name="RunManager" selected="Python.A-We Love Golf">
     <configuration name="A-ゾロ目数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PAST-Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -73,7 +71,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ABC216" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="A-We Love Golf" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PAST-Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -85,7 +83,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ABC216.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/A-We Love Golf.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.A-We Love Golf" />
         <item itemvalue="Python.A-ゾロ目数" />
         <item itemvalue="Python.C- 山崩し" />
         <item itemvalue="Python.C-Takahashi's Information" />
         <item itemvalue="Python.sandbox" />
-        <item itemvalue="Python.ABC216" />
       </list>
     </recent_temporary>
   </component>
@@ -210,16 +208,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
