@@ -46,5 +46,3 @@ while len(Q) > 0:
 # 始点から終点までの最小移動回数を出力
 print(dist[gy][gx])
 
-
-
